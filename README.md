@@ -1,4 +1,1 @@
-.github/workflows/BuildPublishPipeline.yml
-https://ghcr.iomimetypeapplication/vnd.oasis.opendocument.textPK!øŸ
-https://ghcr.io
-™ 9com.samsung.android.honeyboard/.service.HoneyBoardServiceÿ2ClientState{372a739 uid=1000 pid=7616 displayId=0}"=4e47ded com.android.settings/com.android.settings.SubSettings*=4e47ded com.android.settings/com.android.settings.SubSettings2STATE_UNSPECIFIED|ADJUST_RESIZE:!"com.android.settings(ÿÿÿÿÿÿÿÿÿB9com.samsung.android.honeyboard/.service.HoneyBoardServicerandroid.os.Binder@6fc12b8€˜ ¸)SurITICAL.proto.com.txt.android.htmlSurITICAL.proto.com.txt.android.html
+uses: github/codeql-action/analyze@v2
